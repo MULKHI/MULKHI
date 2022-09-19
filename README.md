@@ -19,7 +19,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 <!--ts-->
    * [Stats](#stats)
    * [Tools](#tools)
-   * [Bincang QA](#%EF%B8%8Fbincang-qa)
+   * [Medium](#medium)
         * [SQA Journey Path](#sqa-journey-path)
         * [Postman Tutorial](#postman)
         * [Tips & Trick SQA](#tips--trick)
@@ -66,9 +66,9 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## ▶️Bincang QA
+## ▶️Medium
 <details>
- <summary><strong>Bincang QA Content</strong></summary>
+ <summary><strong>My Medium Content</strong></summary>
     
 ### SQA Journey Path
    * [PART 1 Pengenalan SQA](https://youtu.be/IrWbKeLGi2A)</br>
@@ -82,13 +82,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
    * [PART 7.1 Pengenalan & Setup Cucumber Selenium Java](https://youtu.be/dTAxSbGikSk)
    * [PART 7.2 Web Automation dengan Cucumber Selenium Java](https://youtu.be/zRPyrNq9bWI)
    
-### Postman
-   * [PART 1 Pengenalan & Setup Postman](https://youtu.be/J9SLWV3AAz0)
-   * [PART 2 Simple API Testing menggunakan Postman](https://youtu.be/k243eSg8z9g)
-   * [PART 3 Pengunaan Environment](https://youtu.be/ASBcVfmbKFI)
-   * [PART 4 Postman Assertions](https://youtu.be/R8ea2uqiwmk)
-   * [PART 5 Pengenalan & Setup Newman](https://youtu.be/-7NiQDu7ZGk)
-   * [PART 6 API Testing menggunakan Newman](https://youtu.be/C6nTVRepvYs)
    
 ### Tips & Trick
    * [Portofolio untuk seorang SQA](https://youtu.be/lgp9LIejOOI)
