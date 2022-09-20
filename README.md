@@ -5,10 +5,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 <!--ts-->
    * [Stats](#stats)
    * [Tools](#tools)
-   * [Medium](#medium)
-        * [SQA Journey Path](#sqa-journey-path)
-        * [Postman Tutorial](#postman)
-        * [Tips & Trick SQA](#tips--trick)
    * [Lets connect](#lets-connect)
    * [Contact me](#contact-me)
 <!--te-->
