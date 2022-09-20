@@ -18,13 +18,13 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently working as QA Engineer</br>
-    - 💬 Ask me about Test Automation</br>
-    - 📫 How to reach me: <a href="mailto:wisnu265@gmail.com">Email me!</a>  </br>
+    - 💬 Ask me about Quality Assurance</br>
+    - 📫 How to reach me: <a href="mulkhiputral@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
 <p align="left">
-<a href="https://github.com/wisnuwm">
+<a href="https://github.com/MULKHI">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MULKHI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MULKHI&layout=compact&langs_count=8&theme=algolia"/>
 </a>
