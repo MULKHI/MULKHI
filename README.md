@@ -14,7 +14,7 @@ Currently freelance as QA Engineer, Having knowledge to create web automation us
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
     - 🔭 I’m currently freelance as QA Engineer</br>
-    - 💬 Ask me about Quality Assurance</br>
+    - 💬 let's get to know each other</br>
     - 📫 How to reach me: <a href="mulkhiputral@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
