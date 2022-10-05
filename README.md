@@ -33,7 +33,7 @@ Currently learning QA Engineer, Having knowledge to create web / mobile automati
 ![Appium](https://img.shields.io/badge/-appium-181717?style=for-the-badge&logo=appium)
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
-![Katalon](https://img.shields.io/badge/-katalon)
+![GitHub all releases](https://img.shields.io/github/downloads/MULKHI/MULKHI/total?color=%2383B81A&label=Katalon%20studio&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
