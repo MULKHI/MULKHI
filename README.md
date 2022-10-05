@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Putra!
-Currently learning QA Engineer, Having knowledge to create web automation using Cucumber Cypress and Katalon Studio. Create Test Scenario And Execute Test Scenario, Create Automation based on Test Scenario and Execute Test Automation, API Testing using Postman, And having knowledge about Project Management Tools such a Jira and Clickup.
+Currently learning QA Engineer, Having knowledge to create web and mobile automation using Cucumber Cypress and Katalon Studio. Create Test Scenario And Execute Test Scenario, Create Automation based on Test Scenario and Execute Test Automation, API Testing using Postman, And having knowledge about Project Management Tools such a Jira and Clickup.
 
 # Table of contents
 <!--ts-->
