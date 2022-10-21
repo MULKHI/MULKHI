@@ -20,8 +20,8 @@ Currently learning QA Engineer, Having knowledge to create web / mobile automati
     - ⚡ Fun fact: ... </br>
 </details>
 <p align="left">
-<a href="https://github.com/MULKH">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MULKH&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/MULKHI">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MULKHI&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MULKHI&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
