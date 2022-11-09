@@ -35,7 +35,6 @@ Currently learning QA Engineer, Having knowledge to create web / mobile automati
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![GitHub all releases](https://img.shields.io/github/downloads/MULKHI/MULKHI/total?color=%2383B81A&label=Katalon%20studio&style=for-the-badge)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
-![Serenity](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
 ![Jira](https://img.shields.io/badge/-jira-181717?style=for-the-badge&logo=jira)
 ![Gitlab](https://img.shields.io/badge/-gitlab-181717?style=for-the-badge&logo=gitlab)
 ![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
