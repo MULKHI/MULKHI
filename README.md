@@ -1,5 +1,5 @@
 # Hi there 👋 , I'm Putra!
-Currently learning QA Engineer, Having knowledge to create web / mobile automation record and play using Katalon Studio. Create Test Scenario And Execute Test Scenario, Create Automation based on Test Scenario and Execute Test Automation, Exploratory testing using Xray Exploratory, API Testing using Postman, And having knowledge about Project Management Tools such a Jira.
+Currently learning QA Engineer, Having knowledge to create web / mobile automation record and play using Katalon Studio. Create Test Scenario And Execute Test Scenario, Create Automation based on Test Scenario and Execute Test Automation, Exploratory testing using Xray Exploratory Testing, API Testing using Postman, And having knowledge about Project Management Tools such a Jira.
 
 # Table of contents
 <!--ts-->
