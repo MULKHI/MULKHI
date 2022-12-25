@@ -6,7 +6,8 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN MEDIUM-CARDS -->
-![Untitled design](https://user-images.githubusercontent.com/80143004/209457528-2786ede4-95d8-4829-a261-3a9c8a2a2df2.png)(https://medium.com/@mulkhiputral/perbedaan-severity-dan-priority-dalam-menentukan-bug-report-4835e3c9e32d)
+![Untitled design](https://user-images.githubusercontent.com/80143004/209457528-2786ede4-95d8-4829-a261-3a9c8a2a2df2.png) 
+![severity](https://medium.com/@mulkhiputral/perbedaan-severity-dan-priority-dalam-menentukan-bug-report-4835e3c9e32d)
 
 <!-- END YOUTUBE-CARDS -->
 
