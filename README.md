@@ -20,7 +20,7 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
 ## 📈Stats
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
-    - 🔭 I’m currently learning QA Engineer</br>
+    - 🔭 I’m Software Testing Enthusiast</br>
     - 💬 let's get to know each other</br>
     - 📫 How to reach me: <a href="mulkhiputral@gmail.com">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
