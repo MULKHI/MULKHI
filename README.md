@@ -17,15 +17,6 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
  
 <!-- END MEDIUM-CARDS -->
 
-# Table of contents
-<!--ts-->
-   * [Contact me](#Hi there 👋 , I'm Putra!)
-   * [Tools](#Tools)
-   * [Lets connect](#lets-connect)
-   * [Contact me](#contact-me)
-<!--te-->
- 
-
 ## 📈Stats
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
