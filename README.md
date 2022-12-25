@@ -3,7 +3,7 @@
 
 I am an enthusiastic software testing with the ability to create web/mobile automation using Katalon Studio. I can create test scenarios and execute them, create automation based on test scenarios and execute test automation, create bug reports, do exploratory testing using Xray Exploratory Testing, API testing using Postman, and have knowledge about project management tools such as Jira.
 
-### 📺 Latest Medium Contains
+### 📺 Latest Medium Articles
 
 <!-- BEGIN MEDIUM-CARDS -->
 ![Untitled design](https://user-images.githubusercontent.com/80143004/209457528-2786ede4-95d8-4829-a261-3a9c8a2a2df2.png) 
