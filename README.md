@@ -6,9 +6,7 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
 ### 📺 Latest Medium Articles
 
 <!-- BEGIN MEDIUM-CARDS -->
-![Untitled design](https://user-images.githubusercontent.com/80143004/209457528-2786ede4-95d8-4829-a261-3a9c8a2a2df2.png) 
-
-![Java](https://medium.com/@mulkhiputral/perbedaan-severity-dan-priority-dalam-menentukan-bug-report-4835e3c9e32d)
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
 
 <!-- END YOUTUBE-CARDS -->
 
