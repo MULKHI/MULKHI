@@ -3,22 +3,18 @@
 
 I am an enthusiastic software testing with the ability to create web/mobile automation using Katalon Studio. I can create test scenarios and execute them, create automation based on test scenarios and execute test automation, create bug reports, do exploratory testing using Xray Exploratory Testing, API testing using Postman, and have knowledge about project management tools such as Jira.
 
-### 📺 Latest Medium Articles
+### 📺 My Latest Medium Articles
 
 <!-- BEGIN MEDIUM-CARDS -->
- <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/0" alt="Recent Article 0"> 
+ <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/0" alt="Recent Article 0">
 
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/1" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/1" alt="Recent Article 0">
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/2" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/2"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/2" alt="Recent Article 0">
  
 <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/3" alt="Recent Article 0">
  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/4" alt="Recent Article 0"> 
-
-
-  
-
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/4"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/4" alt="Recent Article 0">
 
 <!-- END MEDIUM-CARDS -->
 
