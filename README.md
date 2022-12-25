@@ -6,7 +6,7 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
 ### 📺 Latest Medium Articles
 
 <!-- BEGIN MEDIUM-CARDS -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@imantumorang/0" alt="Recent Article 0"> 
 
 <!-- END YOUTUBE-CARDS -->
 
