@@ -6,7 +6,7 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
 ### 📺 Latest Medium Articles
 
 <!-- BEGIN MEDIUM-CARDS -->
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/perbedaan-severity-dan-priority-dalam-menentukan-bug-report-4835e3c9e32d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral" alt="Recent Article 0"> 
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/perbedaan-severity-dan-priority-dalam-menentukan-bug-report-4835e3c9e32d"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@mulkhiputral/perbedaan-severity-dan-priority-dalam-menentukan-bug-report-4835e3c9e32d" alt="Recent Article 0"> 
 
 <!-- END YOUTUBE-CARDS -->
 
