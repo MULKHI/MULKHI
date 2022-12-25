@@ -19,8 +19,8 @@ I am an enthusiastic software testing with the ability to create web/mobile auto
 
 # Table of contents
 <!--ts-->
-   * [Stats](#stats)
-   * [Tools](#tools)
+   * [Contact me](# Hi there 👋 , I'm Putra!)
+   * [Tools](##tools)
    * [Lets connect](#lets-connect)
    * [Contact me](#contact-me)
 <!--te-->
