@@ -4,7 +4,7 @@
 I am an enthusiastic software testing with the ability to create web/mobile automation using Katalon Studio. I can create test scenarios and execute them, create automation based on test scenarios and execute test automation, create bug reports, do exploratory testing using Xray Exploratory Testing, API testing using Postman, and have knowledge about project management tools such as Jira.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mulkhi-putra-23909b211)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/shinpei05/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/putraqa_/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@mulkhiputral) 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)]( 00000 )
 <a href="mailto: mulkhiputral@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
